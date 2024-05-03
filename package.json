@@ -1,0 +1,28 @@
+{
+  "name": "vscode-theme-sinaptia",
+  "displayName": "vscode-theme-sinaptia",
+  "description": "A theme from the SINAPTIA team",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/sinaptia/vscode-theme-sinaptia"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "SINAPTIA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SINAPTIA-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  }
+}
