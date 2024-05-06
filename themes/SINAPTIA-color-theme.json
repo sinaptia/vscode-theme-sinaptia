@@ -4,12 +4,14 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#161717",
-		"activityBar.foreground": "#ffffff",
-		"activityBar.inactiveForeground": "#585858",
-		"breadcrumb.focusForeground": "#ffffff",
-		"breadcrumb.foreground": "#949494",
+		"activityBar.foreground": "#B2B6B5",
+		"activityBar.inactiveForeground": "#B2B6B5BB",
+		"activityBarBadge.background": "#448ACC",
+		"activityBarBadge.foreground": "#FFFFFF",
+		"breadcrumb.focusForeground": "#448ACC",
+		"breadcrumb.foreground": "#B2B6B5BB",
 		"editor.background": "#161717",
-		"editor.foreground": "#e6e6e6",
+		"editor.foreground": "#FFFFFFCC",
 		"editor.lineHighlightBackground": "#222222",
 		"editor.selectionBackground": "#424242",
 		"editorCursor.background": "#161717",
@@ -25,7 +27,7 @@
 		"editorLineNumber.foreground": "#585858",
 		"editorWidget.background": "#222222",
 		"focusBorder": "#585858",
-		"foreground": "#d6d6d6",
+		"foreground": "#B2B6B5",
 		"list.activeSelectionBackground": "#424242",
 		"list.focusBackground": "#424242",
 		"list.highlightForeground": "#ffffff",
@@ -848,35 +850,35 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "variable.language.self",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "keyword.type.go",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
@@ -1233,7 +1235,7 @@
 		{
 			"scope": "magit.header",
 			"settings": {
-				"foreground": "#CCE1F1",
+				"foreground": "#D6DAD9",
 				"fontStyle": ""
 			}
 		},
