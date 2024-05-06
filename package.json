@@ -4,7 +4,7 @@
   "description": "A theme from the SINAPTIA team",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.89.0"
+    "vscode": "^1.87.0"
   },
   "license": "MIT",
   "categories": [
