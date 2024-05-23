@@ -2,7 +2,9 @@
   "name": "vscode-theme-sinaptia",
   "displayName": "vscode-theme-sinaptia",
   "description": "A theme from the SINAPTIA team",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "SINAPTIA",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -23,6 +25,7 @@
     ]
   },
   "scripts": {
-    "package": "vsce package"
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }

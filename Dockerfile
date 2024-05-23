@@ -6,4 +6,4 @@ COPY . .
 
 RUN npm install -g @vscode/vsce
 
-CMD ["npm run package"]
+CMD ["npm run package && npm run publish"]

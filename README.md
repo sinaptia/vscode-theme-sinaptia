@@ -1,25 +1,23 @@
 # vscode-theme-sinaptia
 
-[SINAPTIA](https://sinaptia.dev)'s theme.
+[SINAPTIA](https://sinaptia.dev)'s theme. It's based on [sema](https://lunacookies.github.io/sema/), but with some features from our brand's color palette.
 
-## Prerequisites
+See some screenshots:
 
-Install `@vscode/vsce` globally to build this extension:
-
-```bash
-$ npm install -g @vscode/vsce
-```
+![ruby](/images/ruby.png)
+![html](/images/html.png)
+![js](/images/js.png)
 
 ## Development
 
-This extension is not yet released. To build it locally run:
+Build it locally with:
 
 ```bash
 $ npm run package
 ```
 
-And to install it:
+And install it with:
 
 ```bash
-$ code --install-extension vscode-theme-sinaptia-0.0.1.vsix
+$ code --install-extension vscode-theme-sinaptia-0.0.3.vsix
 ```
