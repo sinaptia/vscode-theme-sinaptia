@@ -2,7 +2,7 @@
   "name": "vscode-theme-sinaptia",
   "displayName": "vscode-theme-sinaptia",
   "description": "A theme from the SINAPTIA team",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "publisher": "SINAPTIA",
   "icon": "images/logo.png",
   "engines": {

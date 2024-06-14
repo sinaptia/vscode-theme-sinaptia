@@ -4,9 +4,9 @@
 
 See some screenshots:
 
-![ruby](/images/ruby.png)
-![html](/images/html.png)
-![js](/images/js.png)
+![ruby](https://raw.githubusercontent.com/sinaptia/vscode-theme-sinaptia/main/images/ruby.png)
+![html](https://raw.githubusercontent.com/sinaptia/vscode-theme-sinaptia/main/images/html.png)
+![js](https://raw.githubusercontent.com/sinaptia/vscode-theme-sinaptia/main/images/js.png)
 
 ## Development
 
